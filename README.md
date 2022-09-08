@@ -1,6 +1,6 @@
-# Either Suspend
+# Either Coroutines
 
-Either Suspend is an experimental Typescript library seeking to emulate the Either comprehensions and Effect Scopes provided by Kotlin ArrowKT but in the Typescript language.
+Either Coroutines is an experimental Typescript library seeking to emulate the Either comprehensions and Effect Scopes provided by Kotlin ArrowKT but in the Typescript language.
 
 It provides a minimal implementation of the `Either` monad including the following methods available on the monad instance:
 * map
